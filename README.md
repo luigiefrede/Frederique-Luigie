@@ -1,6 +1,6 @@
 # Frederique-Luigie
 <!-- Bannière -->
-![Banner](https://i.imgur.com/zQZSWrt.png)
+![Banner](https://i.imgur.com/N4j8mVf.png)
 
 # 👋 Salut, je suis **Frédérique Luigie**
 
